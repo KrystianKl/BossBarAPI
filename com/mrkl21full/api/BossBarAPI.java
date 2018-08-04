@@ -138,7 +138,7 @@ public class BossBarAPI extends JavaPlugin implements Listener {
 		if (!hasBar(p))
 			return;
 		
-		if(progress <= 0) {
+		if(progress <= 0 || progress > 100) {
 			removeBar(p);
 		} else {
 			BossBar bossBar = playerBar.get(p.getUniqueId());
