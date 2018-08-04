@@ -1,6 +1,6 @@
 # BossBarAPI
 <h3 id="w-example">Example</h3>
-![BossBarAPI - Example](https://raw.githubusercontent.com/KrystianKl/BossBarAPI/master/example.png)
+<p><img src="https://raw.githubusercontent.com/KrystianKl/BossBarAPI/master/example.png" alt="BossBarAPI - Example" title="BossBarAPI - Example"></p>
 <h3 id="w-developers">Developers</h3>
 <p>Simply add BarAPI.jar to your project build path.</p>
 <h3 id="w-examples">Examples</h3>
