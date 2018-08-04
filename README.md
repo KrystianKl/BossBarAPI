@@ -2,7 +2,7 @@
 <h3 id="w-example">Example</h3>
 <p><img src="https://raw.githubusercontent.com/KrystianKl/BossBarAPI/master/example.png" alt="BossBarAPI - Example" title="BossBarAPI - Example"></p>
 <h3 id="w-developers">Developers</h3>
-<p>Simply add BarAPI.jar to your project build path.</p>
+<p>Simply add BossBarAPI.jar to your project build path.</p>
 <h3 id="w-examples">Examples</h3>
 <h5 id="w-bossbarapi-message">BossBarAPI.createBar(String message)</h5>
 <p>Set a message for all players. It will remain there until the player logs off or another plugin overrides it.</p>
